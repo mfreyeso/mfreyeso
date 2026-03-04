@@ -10,7 +10,8 @@ My experience as a software and data engineer in custom software, AI marketing, 
 * I'm based in [Pasto](https://360radio.com.co/wp-content/uploads/2015/12/pasto.jpg) Colombia 🇨🇴 - A small city with an amazing landspace and a beautiful volcano.
 * My current side project is [4-Connect Game without Ads :D](http://rl-connect4-game.onrender.com) and I'm learning DQN, Pytorch, Microtorch and DuckDB.
 
-I'm looking to collaborate on I'm always looking to team up on DE and AI projects—especially if they involve NLP, climate change, or music generation! I have a very pragmatic style when it comes to discussing ideas: I like to get them off the whiteboard and into a working POC as quickly as possible so we can test, learn, and iterate fast.
+I'm looking to team up on DE and AI projects—especially if they involve NLP, climate change, or music generation. 
+I have a very pragmatic style when it comes to discussing ideas: I like to get them off the whiteboard and into a working POC as quickly as possible so we can test, learn, and iterate fast.
 You can contact me [here](mailto:mfreyesojeda@gmail.com)
 
 
