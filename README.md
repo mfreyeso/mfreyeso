@@ -1,18 +1,19 @@
-Hola! Mario's here
-==========================================================================================================================================
+# Hola! Mario here
 
-AI Data Engineer
-----------------
+## AI Data Engineer
 
-I hold a bachelor's degree in MIS and a master's degree in Artificial Intelligence from Universidad de los Andes.
+I hold a Bachelor's degree in MIS and a Master's degree in Artificial Intelligence from Universidad de los Andes. 
 My experience as a software and data engineer in custom software, AI marketing, and healthcare has enabled me to build scalable, high-quality systems that deliver real value.
 
-* I'm based in [Pasto](https://360radio.com.co/wp-content/uploads/2015/12/pasto.jpg) Colombia 🇨🇴 - A small city with an amazing landspace and a beautiful volcano.
-* My current side project is [4-Connect Game without Ads :D](http://rl-connect4-game.onrender.com) and I'm learning DQN, Pytorch, Microtorch and DuckDB.
+* 📍 Based in [Pasto, Colombia](https://360radio.com.co/wp-content/uploads/2015/12/pasto.jpg) 🇨🇴 — a city with an amazing **landscape** and a beautiful volcano.
+* 🚀 Current side project: [Connect 4 (Ad-free!)](http://rl-connect4-game.onrender.com). I am currently learning DQN, PyTorch, Microtorch, and DuckDB.
 
-I'm looking to team up on DE and AI projects—especially if they involve NLP, climate change, or music generation. 
-I have a very pragmatic style when it comes to discussing ideas: I like to get them off the whiteboard and into a working POC as quickly as possible so we can test, learn, and iterate fast.
-You can contact me [here](mailto:mfreyesojeda@gmail.com)
+I also led a team of Master's peers for our final capstone project to create **AudioReprompt**: a framework to automate music generation for multi-sensory experiences using Multimodal Large Language Models (MLLMs) like BERT, CLAP, and MusicGen. You can learn more about this project [here](https://github.com/audioreprompt-org/audio_reprompt).
+
+I am looking to team up on DE and AI projects—especially those involving **NLP, climate change, or music generation**. 
+I have a very pragmatic style: I like to move ideas off the whiteboard and into a working POC as quickly as possible so we can test, learn, and iterate fast.
+
+📫 [Contact me here](mailto:mfreyesojeda@gmail.com)
 
 
 ### Skills
