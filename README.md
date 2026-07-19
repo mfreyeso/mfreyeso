@@ -1,8 +1,7 @@
-# Hola! Mario here
+# Hola! I'm Mario 👋
 
-## AI Data Engineer
 
-I hold a Bachelor's degree in MIS and a Master's degree in Artificial Intelligence from Universidad de los Andes. 
+I'm a data engineer and music lover. I hold a Bachelor's degree in MIS and a Master's degree in Artificial Intelligence from Universidad de los Andes. 
 My experience as a software and data engineer in custom software, AI marketing, and healthcare has enabled me to build scalable, high-quality systems that deliver real value.
 
 * 📍 Based in [Pasto, Colombia](https://360radio.com.co/wp-content/uploads/2015/12/pasto.jpg) 🇨🇴 — a city with an amazing **landscape** and a beautiful volcano.
