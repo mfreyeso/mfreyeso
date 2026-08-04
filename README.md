@@ -5,7 +5,7 @@ I'm a data engineer and music lover. I hold a Bachelor's degree in MIS and a Mas
 My experience as a software and data engineer in custom software, AI marketing, and healthcare has enabled me to build scalable, high-quality systems that deliver real value.
 
 * 📍 Based in [Pasto, Colombia](https://360radio.com.co/wp-content/uploads/2015/12/pasto.jpg) 🇨🇴 — a city with an amazing **landscape** and a beautiful volcano.
-* 🚀 Current side project: [Connect 4 (Ad-free!)](http://rl-connect4-game.onrender.com). I am currently learning DQN, PyTorch, Microtorch, and DuckDB.
+* 🚀 Current side project: [Connect 4 (Ad-free!)](https://connect4-game-741459842806.us-central1.run.app). I am currently learning DQN, PyTorch, Microtorch, and DuckDB.
 
 I also led a team of Master's peers for our final capstone project to create **AudioReprompt**: a framework to automate music generation for multi-sensory experiences using Multimodal Large Language Models (MLLMs) like BERT, CLAP, and MusicGen. You can learn more about this project [here](https://github.com/audioreprompt-org/audio_reprompt).
 
