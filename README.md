@@ -1,19 +1,24 @@
 # Hola! I'm Mario 👋
 
+I'm an **AI Data Engineer** and software engineer passionate about building scalable, high-quality systems that deliver real value. With a background spanning custom software, AI marketing, and healthcare, I thrive on a pragmatic approach: moving ideas off the whiteboard and into working proofs-of-concept to test, learn, and iterate fast.
 
-I'm a data engineer and music lover. I hold a Bachelor's degree in MIS and a Master's degree in Artificial Intelligence from Universidad de los Andes. 
-My experience as a software and data engineer in custom software, AI marketing, and healthcare has enabled me to build scalable, high-quality systems that deliver real value.
+### 🎓 Background
+* **M.S. in Artificial Intelligence** — Universidad de los Andes
+* **B.S. in Management Information Systems** — Universidad Nacional de Colombia
 
-* 📍 Based in [Pasto, Colombia](https://360radio.com.co/wp-content/uploads/2015/12/pasto.jpg) 🇨🇴 — a city with an amazing **landscape** and a beautiful volcano.
-* 🚀 Current side project: [Connect 4 (Ad-free!)](https://connect4-game-741459842806.us-central1.run.app). I am currently learning DQN, PyTorch, Microtorch, and DuckDB.
+### 🚀 What I'm Working On
 
-I also led a team of Master's peers for our final capstone project to create **AudioReprompt**: a framework to automate music generation for multi-sensory experiences using Multimodal Large Language Models (MLLMs) like BERT, CLAP, and MusicGen. You can learn more about this project [here](https://github.com/audioreprompt-org/audio_reprompt).
+* **Tech Deep Dives:** Currently exploring Python free-threading (GIL removal), autonomous agentic workflows (Spec-Driven Development), and advanced data architectures (BigQuery Medallion architecture, PostgreSQL MCP).
 
-I am looking to team up on DE and AI projects—especially those involving **NLP, climate change, or music generation**. 
-I have a very pragmatic style: I like to move ideas off the whiteboard and into a working POC as quickly as possible so we can test, learn, and iterate fast.
+* **Connect 4 (Ad-free!):** A web-based game built with a Q-learning reinforcement learning agent. I'm actively experimenting with DQN, PyTorch, Microtorch, and DuckDB for this project. Check it out [here](https://connect4-game-741459842806.us-central1.run.app).
 
-📫 [Contact me here](mailto:mfreyesojeda@gmail.com)
+* **AudioReprompt:** Led a Master's capstone team to create a framework that automates music generation for multi-sensory experiences using Multimodal Large Language Models (MLLMs) like BERT, CLAP, and MusicGen. Read more about it [here](https://github.com/audioreprompt-org/audio_reprompt).
 
+### 🤝 Let's Collaborate
+I am looking to team up on Data Engineering and AI projects—especially those involving **Natural Language Processing (NLP), climate change, or music generation**.
+
+📍 **Based in:** [Pasto, Colombia](https://360radio.com.co/wp-content/uploads/2015/12/pasto.jpg) 🇨🇴 — surrounded by amazing landscapes and a beautiful volcano.  
+📫 **Reach out:** [mfreyesojeda@gmail.com](mailto:mfreyesojeda@gmail.com)
 
 ### Skills
 
