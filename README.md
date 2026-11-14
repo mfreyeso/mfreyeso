@@ -15,6 +15,17 @@ I'm an **AI Data Engineer** and software engineer passionate about building scal
 |[GIL or not GIL, that is the question 😅](https://github.com/mfreyeso/fthreads) | An exploration of the new GIL options in Python 3.13 and 3.14. Inspired by Tiago Rodrigues Antão’s Fast Python (2023), it focuses on advanced concurrency using asyncio and multiprocessing.
 | [Connect 4 (Ad-free!)](https://github.com/mfreyeso/rl-connect4-game)| A web-based game built with a Q-learning reinforcement learning agent. [Play it](https://connect4-game-741459842806.us-central1.run.app), get fun! |
 
+
+### 💾 Old School
+
+I built my foundation before the current AI race and modern code assistants. I cut my teeth on Python 2.x, building web apps and APIs with Bottle, Flask, and Django, and writing raw data wrangling scripts from scratch. 
+
+| Project | Description |
+| :--- | :--- |
+| [TF-IDF Analyzer](https://github.com/mfreyeso/tf-idf-analyzer) | An API to analyze the terms of an article passed as a parameter. Looking back, it operated like a grandpa 👨🏼‍🦳 inference endpoint compared to the sophisticated ML endpoints I deploy today. It wrapped multiple internal services, including a scraper and a `TfidfVectorizer`. |
+| [ETL Sparkify](https://github.com/mfreyeso/etl_sparkify) | A minimal ETL pipeline to process and sink data into a star schema data model using `psycopg2`, `pandas`, and PostgreSQL. |
+
+
 ### Let's Collaborate
 I am looking to team up on Data Engineering and AI projects—especially those involving **Natural Language Processing (NLP), climate change, or music generation**.
 
