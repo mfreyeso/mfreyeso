@@ -10,6 +10,7 @@ I'm an **AI Data Engineer** and software engineer passionate about building scal
 
 | Name | Description |
 |------|-------------|
+| [Deletion Audit Agent 👻](https://github.com/mfreyeso/hackerrank-orchestrate-october26) | A deletion audit agent built with LangGraph to dig up ghost lineages in a set of evidence records. Proposed solution for the HackerRank Orchestrate October 2026.|
 | [AudioReprompt](https://github.com/audioreprompt-org/audio_reprompt) | I led a Master's capstone team to create a framework that automates music generation for multi-sensory experiences using Multimodal Large Language Models (MLLMs) like BERT, CLAP, and MusicGen. We are currently executing ablation studies to prepare our core findings for academic publication.|
 | [Computer Agents](https://github.com/mfreyeso/computer-agents) | A technical proof-of-concept developed for a company exploring agentic architectures. The solution features an autonomous agent using Claude Sonnet's computer use capabilities, integrated with dynamic VNC.|
 |[GIL or not GIL, that is the question 😅](https://github.com/mfreyeso/fthreads) | An exploration of the new GIL options in Python 3.13 and 3.14. Inspired by Tiago Rodrigues Antão’s Fast Python (2023), it focuses on advanced concurrency using asyncio and multiprocessing.
